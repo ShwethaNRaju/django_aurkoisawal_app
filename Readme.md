@@ -1,6 +1,6 @@
 ## AurKoiSawal
 
-AurKoiSawal is a question and answer wabsite for engineering students, where engineering students can post their problems to this website and get the solutions for their problems.
+AurKoiSawal is a question and answer website for engineering students, where engineering students can post their problems to this website and get the solutions for their problems.
 It has all the features that a Question and Answer Website should have.
 
 
